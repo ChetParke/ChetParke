@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
   <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Cloud-Based Honeypot Deployment and Attack Analysis in Microsoft Azure</a></li>
-  <li><a href="[https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md](https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Port%20Security%20with%20Nmap%20&%20Kali%20Linux.md)">Port Security with Nmap & Kali Linux</a></li>
+  <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md](https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Port%20Security%20with%20Nmap%20&%20Kali%20Linux.md">Port Security with Nmap & Kali Linux</a></li>
 
 </ul>
 
