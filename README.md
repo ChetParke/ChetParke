@@ -1,5 +1,7 @@
 <h1>Hi, I'm Chet! <br/>
 <h4></h4>
+<h2>👨‍💻 Cybersecurity Competitions:</h2>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
   <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Cloud-Based Honeypot Deployment and Attack Analysis in Microsoft Azure</a></li>
