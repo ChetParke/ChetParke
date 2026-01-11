@@ -1,6 +1,10 @@
 <h1>Hi, I'm Chet! <br/>
 <h4></h4>
 <h2>🏆 Cybersecurity Competitions:</h2>
+  <ul>
+  <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">US Cyber Challenge: Cyber Quest Winter 2025</a></li>
+
+</ul>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
