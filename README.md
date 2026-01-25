@@ -13,6 +13,8 @@
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Default%20Credential%20Policy%20Enforecment.md">Default Credentials Policy Enforcment</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Exploiting%20NIST%20Vulnerabilities%20in%20Legacy%20Applications.md">Exploiting NIST Vulnerabilities in Legacy Applications VIA Metasploit</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/PostgreSQL%20Service%20Exploitation%20%26%20Privilege%20Escalation%20with%20Metasploit.md">PostgreSQL Service Exploitation & Privilege Escalation with Metasploit</a></li>
+  <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/BitLocker%20Endpoint%20Encryption.md">BitLocker Endpoint Encryption</a></li>
+  
 </ul>
 
 
