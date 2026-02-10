@@ -14,6 +14,7 @@
   <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md](https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Port%20Security%20with%20Nmap%20&%20Kali%20Linux.md">Port Security with Nmap & Kali Linux</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Default%20Credential%20Policy%20Enforecment.md">Default Credentials Policy Enforcment</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/BitLocker%20Endpoint%20Encryption.md">BitLocker Endpoint Encryption</a></li>
+  <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Configuring%20Firewalls%20on%20Windows.md">Configuring Firewall Rules in Windows</a></li>
   
 </ul>
 
