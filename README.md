@@ -16,6 +16,7 @@
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/BitLocker%20Endpoint%20Encryption.md">BitLocker Endpoint Encryption</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Configuring%20Firewalls%20on%20Windows.md">Configuring Firewall Rules in Windows</a></li>
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Data%20Backup%20and%20Disaster%20Recovery.md">Data Backup & Disaster Recovery</a></li>
+  <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Malware%20Removal%20and%20Remediation.md">Malware Removal & Remediation</a></li>
   
 </ul>
 
