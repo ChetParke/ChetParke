@@ -5,7 +5,7 @@
   <li><a href="https://github.com/ChetParke/Cybersecurity-Projects/blob/main/Cyber%20Quest:%20Winter%202025.md">US Cyber Challenge: Cyber Quest Winter 2025</a></li>
 
 </ul>
-  
+<h2>🤖 Artificial Intelligence & Development:</h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
   <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Cloud-Based Honeypot Deployment and Attack Analysis in Microsoft Azure</a></li>
@@ -27,7 +27,7 @@
     <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/IDOR.md">IDOR</a></li>
   <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/Broken%20Access%20Control.md">Broken Access Control</a></li>
 </ul>
-<h2>🤖 Scripting & Development:</h2>
+
 
 
 <h2> 🤳 Connect with me:</h2>
