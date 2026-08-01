@@ -27,7 +27,6 @@
     <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/IDOR.md">IDOR</a></li>
   <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/Broken%20Access%20Control.md">Broken Access Control</a></li>
 </ul>
-<h2>💻🔌 Networking & Servers:</h2>
 <h2>🤖 Scripting & Development:</h2>
 
 
